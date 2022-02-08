@@ -1,0 +1,16 @@
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\bin\Debug\net5.0\RequestTask.exe
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\bin\Debug\net5.0\RequestTask.deps.json
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\bin\Debug\net5.0\RequestTask.runtimeconfig.json
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\bin\Debug\net5.0\RequestTask.runtimeconfig.dev.json
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\bin\Debug\net5.0\RequestTask.dll
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\bin\Debug\net5.0\ref\RequestTask.dll
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\bin\Debug\net5.0\RequestTask.pdb
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\obj\Debug\net5.0\RequestTask.csproj.AssemblyReference.cache
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\obj\Debug\net5.0\RequestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\obj\Debug\net5.0\RequestTask.AssemblyInfoInputs.cache
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\obj\Debug\net5.0\RequestTask.AssemblyInfo.cs
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\obj\Debug\net5.0\RequestTask.csproj.CoreCompileInputs.cache
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\obj\Debug\net5.0\RequestTask.dll
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\obj\Debug\net5.0\ref\RequestTask.dll
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\obj\Debug\net5.0\RequestTask.pdb
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\RequestTask\obj\Debug\net5.0\RequestTask.genruntimeconfig.cache

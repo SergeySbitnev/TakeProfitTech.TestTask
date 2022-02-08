@@ -1,0 +1,7 @@
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\TestTask\bin\Debug\TestTask.exe.config
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\TestTask\bin\Debug\TestTask.exe
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\TestTask\bin\Debug\TestTask.pdb
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\TestTask\obj\Debug\TestTask.exe
+C:\TakeProfitTech.TestTask\TakeProfitTech.TestTask\TestTask\obj\Debug\TestTask.pdb

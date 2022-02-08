@@ -1,1 +1,0 @@
-# TakeProfitTech.TestTask
